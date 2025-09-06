@@ -10,7 +10,7 @@ const Sunglass = () => {
   const sum = add(first, second);
   const mul = multiply(first, second);
   // const vaag = divide(first, second)
-  // const vaag = divide(first, second)
+  const vaag = divide(first, second)
   return (
     <div>
       <Watch></Watch>
